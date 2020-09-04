@@ -1,6 +1,12 @@
 # linux_app
 
 A new Flutter project.
+Have you ever wanted to control your linux system over network using your phone and not only that connecting it with firebase to store the data of command you execute ? 
+Here resides the solution! An App which take a
+1. command input
+2. Execute on Linux(RhelV8 for me) machine 
+3. Store the data in Firestore(GCP Cloud)
+4. Retrive the data and show it on your mobile device 
 
 ## Getting Started
 
